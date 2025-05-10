@@ -80,6 +80,7 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
+### **Entity Relationship Diagram (ERD)**
 
 
 
