@@ -46,4 +46,26 @@ Key business problems identified:
 
 ---
 
+## **Solving Business Problems**
+
+Solutions Implemented:
+1. Restock Prediction: By forecasting product demand based on past sales,I optimized restocking cycles, minimizing stockouts.
+2. Product Performance: Identified high-return products and optimized their sales strategies, such as product bundling and pricing adjustments.
+3. Shipping Optimization: Analyzed shipping times and delivery providers to recommend better logistics strategies and improve customer satisfaction.
+4. Customer Segmentation: Conducted RFM analysis to target marketing efforts towards “At-Risk” customers, improving retention and loyalty.
+
+## **Objective**
+
+The primary objective of this project is to showcase SQL proficiency through complex queries that address real-world e-commerce business challenges. The analysis covers various aspects of e-commerce operations, including:
+1. Customer behavior
+2. Sales trends
+3. Inventory management
+4. Payment and shipping analysis
+5. Forecasting and product performance
+
+
+
+
+
+
 
